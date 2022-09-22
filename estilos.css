@@ -1,0 +1,40 @@
+body{
+    background-color: #2F8398;
+}
+#numero1{
+    width: 50px;
+}
+#numero4{
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 50px;
+}
+span{
+    color: white;
+    font-size: 15px;
+}
+h1{
+    margin-top: 5px;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0A4047;
+}
+#boton{
+    margin-top: 20px;
+    margin-left: 160px;
+    padding: 20px;
+    background-color:#67B2D0;
+    border-radius: 30px;
+}
+p{
+    font-size: 20px;
+    color: #0A3947;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#solucion{
+    margin-top: 5px;
+    margin-left: 200px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
